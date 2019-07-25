@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!--- @file
+  Readme.md for ACPI Intro to ASL
 
-You can use the [editor on GitHub](https://github.com/Laurie0131/ACPI_Intro_to_ASL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+  Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Redistribution and use in source (original document form) and 'compiled'
+  forms (converted to PDF, epub, HTML and other formats) with or without
+  modification, are permitted provided that the following conditions are met:
 
-### Markdown
+  1) Redistributions of source code (original document form) must retain the
+     above copyright notice, this list of conditions and the following
+     disclaimer as the first lines of this file unmodified.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  2) Redistributions in compiled form (transformed to other DTDs, converted to
+     PDF, epub, HTML and other formats) must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in the
+     documentation and/or other materials provided with the distribution.
 
-```markdown
-Syntax highlighted code block
+  THIS DOCUMENTATION IS PROVIDED BY TIANOCORE PROJECT "AS IS" AND ANY EXPRESS OR
+  IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+  MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+  EVENT SHALL TIANOCORE PROJECT  BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+  PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+  OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS DOCUMENTATION, EVEN IF
+  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-# Header 1
-## Header 2
-### Header 3
+-->
 
-- Bulleted
-- List
+# ACPI Intro to ASL
 
-1. Numbered
-2. List
+To launch training, use the following link: https://laurie0131.github.io/ACPI_Intro_to_ASL/
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Laurie0131/ACPI_Intro_to_ASL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
